@@ -1,0 +1,15 @@
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.csproj.AssemblyReference.cache
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.AssemblyInfoInputs.cache
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.AssemblyInfo.cs
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\Desktop\seminar2\star_tusk\bin\Debug\net6.0\star_tusk.exe
+C:\Users\Домашний\Desktop\seminar2\star_tusk\bin\Debug\net6.0\star_tusk.deps.json
+C:\Users\Домашний\Desktop\seminar2\star_tusk\bin\Debug\net6.0\star_tusk.runtimeconfig.json
+C:\Users\Домашний\Desktop\seminar2\star_tusk\bin\Debug\net6.0\star_tusk.dll
+C:\Users\Домашний\Desktop\seminar2\star_tusk\bin\Debug\net6.0\star_tusk.pdb
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.dll
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\refint\star_tusk.dll
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.pdb
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\star_tusk.genruntimeconfig.cache
+C:\Users\Домашний\Desktop\seminar2\star_tusk\obj\Debug\net6.0\ref\star_tusk.dll
